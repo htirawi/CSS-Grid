@@ -1,1 +1,7 @@
-# Grid Image Gallery
+### Grid Image Gallery
+
+This Grid Image Gallery is based on [Wes Bos CSS Grid](https://cssgrid.io/)
+
+
+[(:fire:) The CodePen pen](https://codepen.io/htirawi/pen/EeePgJ)
+
